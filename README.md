@@ -1,5 +1,7 @@
 # AHAT_cGAN_DIFF
 
+[PAPER](https://github.com/Hovohoangduy/AHAT_cGAN_DIFF/blob/main/AHAT_cGAN_DIFF%20Paper.pdf)
+
 #### The proposed HAT-cGAN-DIFF model
 <img src="AHAT img/Model.png">
 
